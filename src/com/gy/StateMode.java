@@ -1,5 +1,6 @@
 package com.gy;
 
+
 public class StateMode {
     public static void main(String[] args) {
         WarterMachine warterMachine = new WarterMachine(3);
