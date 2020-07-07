@@ -1,6 +1,6 @@
 package com.gy;
 
-
+// 允许对象内部状态改变时改变他的行为，对象看起来好像修改了它的类
 public class StateMode {
     public static void main(String[] args) {
         WarterMachine warterMachine = new WarterMachine(3);
